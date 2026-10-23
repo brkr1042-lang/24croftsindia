@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "24crofts.com — Cinema 24 Crafts Directory",
+  "short_name": "24Crofts",
+  "description": "Matrimonial-style Cinema 24 Crafts Talent & Production House Directory with Admin-Approved Contact Privacy.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#F2B705",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

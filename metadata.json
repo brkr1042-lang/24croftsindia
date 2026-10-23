@@ -1,0 +1,8 @@
+{
+  "name": "24crofts.com — Cinema 24 Crafts Matrimonial-Style Casting & Production Directory",
+  "description": "Official 24 Crafts Indian Cinema Talent, Technician & Production House Directory with Admin-Gated Contact Privacy, Unique Profile IDs, Movie Teaser & Ad Showcases, and No-Code CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
